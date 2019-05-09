@@ -1,0 +1,6 @@
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\bin\Debug\multi_dim_arrays.exe.config
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\obj\Debug\multi_dim_arrays.csprojResolveAssemblyReference.cache
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\bin\Debug\multi_dim_arrays.exe
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\bin\Debug\multi_dim_arrays.pdb
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\obj\Debug\multi_dim_arrays.exe
+C:\Users\nomi2\Documents\Visual Studio 2013\Projects\multi_dim_arrays\multi_dim_arrays\obj\Debug\multi_dim_arrays.pdb
